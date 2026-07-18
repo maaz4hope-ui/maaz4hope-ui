@@ -1,57 +1,62 @@
 # 👋 Hi, I'm Shaikh Muhammad Maaz
 
-🚀 **Aspiring Data Scientist | Data Analyst | Python Developer**
+🎯 **Junior Data Analyst | Python | SQL | Google Sheets | Excel**
 
-I'm passionate about turning raw data into actionable insights and building machine learning solutions. Currently exploring the world of data science and AI.
+I specialize in turning raw data into actionable business insights through data cleaning, exploratory analysis, dashboards, and reporting.
+
+📧 maaz4hope@gmail.com | 💬 [WhatsApp](https://wa.me/923182571509) | 🌐 [Portfolio](https://shaikh-data-analyst-portfolio.ai.studio/)
 
 ---
 
 ## 🛠️ Skills
 
-### Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Currently Learning
-- 📊 **SQL** for data querying
-- 📈 **Power BI** for dashboards
-- 🧠 **Machine Learning** algorithms
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 📂 Projects
+## 📊 Projects
 
-### 🔍 [Customer Segmentation](https://github.com/maaz4hope-ui/customer-segmentation)
-- Customer grouping using K-Means clustering
-- Python, Scikit-learn, Pandas, Matplotlib
+### 🛒 [Superstore Sales Analysis](https://github.com/maaz4hope-ui/Superstore_Sales-Analysis)
+- Analyzed **9,994 orders** worth **$2.3M** in revenue
+- Identified Technology as top category ($836K) with 17.4% margin
+- Discovered Furniture low margin (2.49%) — recommended pricing review
+- Built 10+ visualizations using Python, Pandas, Matplotlib
 
-### 📊 [Superstore Sales Analysis](https://github.com/maaz4hope-ui/Superstore_Sales-Analysis)
-- End-to-end sales analysis and insights
-- Python, Pandas, NumPy, Matplotlib
+### 📊 [Superstore Sales Dashboard](https://github.com/maaz4hope-ui/superstore-sales-dashboard)
+- Built interactive dashboard in Google Sheets tracking $2.3M revenue
+- Used Pivot Tables, VLOOKUP, IF formulas, Conditional Formatting
+- Created bar charts and pie charts for business insights
 
----
+### 🔍 [SQL Sales Analysis](https://github.com/maaz4hope-ui/sql-sales-analysis)
+- Used advanced SQL — JOINs, Subqueries, GROUP BY, HAVING, CASE WHEN
+- Identified Electronics as top category (83% revenue)
+- Found Lahore as top city (Rs. 175,000) and January as peak month
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maaz4hope-ui&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maaz4hope-ui&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikh-muhammad-maaz-a98035257/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maaz4hope-ui)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maaz4hope@gmail.com)
+### 🤖 [Customer Segmentation System](https://github.com/maaz4hope-ui/customer-segmentation)
+- Built K-Means clustering ML model to segment customers
+- Applied Elbow Method for optimal clusters
+- Performed data preprocessing, encoding, and feature engineering
 
 ---
 
-⭐ *"Data is the new oil, and I'm learning to refine it."*
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikh-muhammad-maaz-a98035257)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/maaz4hope-ui)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maaz4hope@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://shaikh-data-analyst-portfolio.ai.studio/)
+
+---
+
+⭐ *"Data is the new oil — and I know how to refine it."*
 
 <!--
 **maaz4hope-ui/maaz4hope-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
