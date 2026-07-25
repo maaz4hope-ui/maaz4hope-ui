@@ -30,7 +30,7 @@ I specialize in turning raw data into actionable business insights through data 
 - Discovered Furniture low margin (2.49%) — recommended pricing review
 - Built 10+ visualizations using Python, Pandas, Matplotlib
 
-### 📊 [Superstore Sales Dashboard](https://github.com/maaz4hope-ui/superstore-sales-dashboard)
+### 📊 [Superstore Sales Dashboard](https://github.com/maaz4hope-ui/google-sheets-sales-dashboard)
 - Built interactive dashboard in Google Sheets tracking $2.3M revenue
 - Used Pivot Tables, VLOOKUP, IF formulas, Conditional Formatting
 - Created bar charts and pie charts for business insights
