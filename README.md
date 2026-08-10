@@ -24,13 +24,13 @@ I specialize in turning raw data into actionable business insights through data 
 
 ## 📊 Projects
 
-### 🛒 [Superstore Sales Analysis](https://github.com/maaz4hope-ui/Superstore_Sales-Analysis)
+### 📊 [Superstore Sales Analysis](https://github.com/maaz4hope-ui/Superstore_Sales-Analysis)
 - Analyzed **9,994 orders** worth **$2.3M** in revenue
 - Identified Technology as top category ($836K) with 17.4% margin
 - Discovered Furniture low margin (2.49%) — recommended pricing review
 - Built 10+ visualizations using Python, Pandas, Matplotlib
 
-### 📊 [Superstore Sales Dashboard](https://github.com/maaz4hope-ui/google-sheets-sales-dashboard)
+### 📈 [Superstore Sales Dashboard](https://github.com/maaz4hope-ui/google-sheets-sales-dashboard)
 - Built interactive dashboard in Google Sheets tracking $2.3M revenue
 - Used Pivot Tables, VLOOKUP, IF formulas, Conditional Formatting
 - Created bar charts and pie charts for business insights
@@ -38,13 +38,17 @@ I specialize in turning raw data into actionable business insights through data 
 ### 🔍 [SQL Sales Analysis](https://github.com/maaz4hope-ui/sql-sales-analysis)
 - Used advanced SQL — JOINs, Subqueries, GROUP BY, HAVING, CASE WHEN
 - Identified Electronics as top category (83% revenue)
-- Found Lahore as top city (Rs. 175,000) and January as peak month
+- Found Lahore as top city and January as peak month
 
 ### 🤖 [Customer Segmentation System](https://github.com/maaz4hope-ui/customer-segmentation)
 - Built K-Means clustering ML model to segment customers
 - Applied Elbow Method for optimal clusters
 - Performed data preprocessing, encoding, and feature engineering
 
+### 📱 [Mobile Sales Dashboard (Power BI)](https://github.com/maaz4hope-ui/power-bi-mobile-sales-dashboard)
+- Built interactive Power BI dashboard analyzing mobile sales across India
+- Tracked ₹769M in sales, 19K units, 4K transactions
+- Used DAX, Power Query, slicers, and multi-visual reporting
 ---
 
 ## 📬 Connect With Me
