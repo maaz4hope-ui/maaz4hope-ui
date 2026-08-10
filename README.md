@@ -4,7 +4,7 @@
 
 I specialize in turning raw data into actionable business insights through data cleaning, exploratory analysis, dashboards, and reporting.
 
-📧 maaz4hope@gmail.com | 💬 [WhatsApp](https://wa.me/923182571509) | 🌐 [Portfolio](https://shaikh-data-analyst-portfolio.ai.studio/)
+📧 maaz4hope@gmail.com | 💬 [WhatsApp](https://wa.me/923182571509) | 🌐 [Portfolio](https://maaz4hope-ui.github.io/maaz-portfolio/)
 
 ---
 
