@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
@@ -51,6 +52,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </p>
 
 ---
@@ -75,16 +77,23 @@
 - Automated CSV cleaning (duplicates, missing values, outliers)
 - Date column auto-detection & conversion
 - IQR-based outlier removal
-- **Tech:** Python, Pandas, Pytest
+- **Tech:** Python, Pandas, Pytest, OOP
 
-### 📊 [Superstore Sales Analysis](https://github.com/maaz4hope-ui/Superstore_Sales-Analysis)
+### 📊 [E-Commerce Cohort Analysis](https://github.com/maaz4hope-ui/E-Commerce-Cohort-Analysis)
+> Analyzed **500,000+ transactions** for Retention & Revenue Churn
+- Built Customer and Revenue Retention matrices using Pandas.
+- Discovered a "Revenue Paradox": While customer count drops, the remaining B2B/wholesale customers show **83% revenue retention** by Month 11.
+- Built Heatmaps using Seaborn.
+- **Tech:** Python, Pandas, Seaborn, Matplotlib
+
+### 📈 [Superstore Sales Analysis](https://github.com/maaz4hope-ui/Superstore_Sales-Analysis)
 > Analyzed **9,994 orders** worth **$2.3M revenue**
 - Identified Technology as top category ($836K, 17.4% margin)
 - Discovered Furniture low margin (2.49%) — recommended pricing review
 - Built 10+ visualizations
 - **Tech:** Python, Pandas, Matplotlib
 
-### 📈 [Superstore Sales Dashboard](https://github.com/maaz4hope-ui/google-sheets-sales-dashboard)
+### 📉 [Superstore Sales Dashboard](https://github.com/maaz4hope-ui/google-sheets-sales-dashboard)
 > Interactive dashboard in **Google Sheets**
 - Tracked $2.3M revenue with Pivot Tables & VLOOKUP
 - Conditional Formatting for KPI highlighting
